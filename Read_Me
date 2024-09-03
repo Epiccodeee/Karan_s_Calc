@@ -1,0 +1,28 @@
+# Karan's Calc
+
+Karan's Calc is a basic calculator Android application developed using Jetpack Compose. It provides standard arithmetic functionalities such as addition, subtraction, multiplication, and division.
+
+## Features
+
+- **Simple and Intuitive UI**: Utilizes a clean user interface making it easy for all users to operate the calculator.
+- **Basic Operations**: Perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+- **Lightweight**: The app is lightweight and designed for efficiency, ensuring quick startup and smooth operation.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+What you need to install the software:
+
+- Android Studio
+- Git (for version control)
+
+### Installing
+
+A step-by-step series of examples that tell you how to get a development environment running:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Karan_s_Calc.git
