@@ -1,5 +1,4 @@
-package com.example.karans_calc  // Replace with your actual package name
-
+package com.example.karans_calc  
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
